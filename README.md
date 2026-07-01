@@ -1,2 +1,2 @@
 # AresUpdateChannel
-Ares CLI guncelleme kanali - surum dagitimi (ares.exe)
+A Auto Update Channel for Ares and Modules
